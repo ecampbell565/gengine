@@ -1,9 +1,9 @@
-package com.gyroscopegames.gengine.implementation;
+package com.gyroscopegames.gengine.engine.ui;
 
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.gyroscopegames.gengine.engine.Game;
+import com.gyroscopegames.gengine.engine.engine.Game;
 import com.gyroscopegames.gengine.GameObjects.implementation.Player;
 import com.gyroscopegames.gengine.engine.logic.UIListener;
 

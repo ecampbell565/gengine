@@ -1,6 +1,6 @@
 package com.gyroscopegames.gengine.GameObjects.implementation;
 
-import com.gyroscopegames.gengine.GameObjects.GameObject;
+import com.gyroscopegames.gengine.engine.logic.GameObject;
 
 /**
  * Created by Eric R. Campbell on 2/7/2016.

@@ -1,6 +1,6 @@
 package com.gyroscopegames.gengine.engine.logic;
 
-import com.gyroscopegames.gengine.implementation.SquaredRenderView;
+import com.gyroscopegames.gengine.engine.view.SquaredRenderView;
 
 /**
  * Implementation of this class should be in a separate Thread

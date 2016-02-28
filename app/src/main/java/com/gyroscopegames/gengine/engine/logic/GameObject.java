@@ -1,4 +1,4 @@
-package com.gyroscopegames.gengine.GameObjects;
+package com.gyroscopegames.gengine.engine.logic;
 
 import java.util.UUID;
 

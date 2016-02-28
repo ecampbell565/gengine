@@ -5,10 +5,10 @@ import android.graphics.Paint;
 import android.util.Log;
 
 import com.gyroscopegames.gengine.GameObjects.implementation.ExampleObject;
-import com.gyroscopegames.gengine.engine.Game;
+import com.gyroscopegames.gengine.engine.engine.Game;
 import com.gyroscopegames.gengine.engine.logic.Scene;
 import com.gyroscopegames.gengine.engine.ui.Graphics;
-import com.gyroscopegames.gengine.implementation.SquaredRenderView;
+import com.gyroscopegames.gengine.engine.view.SquaredRenderView;
 
 /**
  * Example Scene class

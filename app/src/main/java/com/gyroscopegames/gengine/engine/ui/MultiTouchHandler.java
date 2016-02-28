@@ -1,11 +1,11 @@
-package com.gyroscopegames.gengine.implementation.ui;
+package com.gyroscopegames.gengine.engine.ui;
 
 import android.view.MotionEvent;
 import android.view.View;
 
 import com.gyroscopegames.gengine.engine.ui.Input;
 import com.gyroscopegames.gengine.engine.ui.TouchListener;
-import com.gyroscopegames.gengine.implementation.Pool;
+import com.gyroscopegames.gengine.engine.util.Pool;
 
 import java.util.ArrayList;
 import java.util.List;

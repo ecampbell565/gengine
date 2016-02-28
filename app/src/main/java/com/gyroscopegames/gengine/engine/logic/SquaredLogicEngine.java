@@ -1,10 +1,9 @@
-package com.gyroscopegames.gengine.implementation;
+package com.gyroscopegames.gengine.engine.logic;
 
 import android.util.Log;
 
-import com.gyroscopegames.gengine.engine.Game;
-import com.gyroscopegames.gengine.engine.logic.LogicUpdater;
-import com.gyroscopegames.gengine.engine.logic.Scene;
+import com.gyroscopegames.gengine.engine.engine.Game;
+import com.gyroscopegames.gengine.engine.view.SquaredRenderView;
 
 /**
  * Created by Eric R. Campbell on 12/30/2015.

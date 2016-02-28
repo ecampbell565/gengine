@@ -1,11 +1,11 @@
-package com.gyroscopegames.gengine.implementation;
+package com.gyroscopegames.gengine.engine.view;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.util.Log;
 
-import com.gyroscopegames.gengine.engine.Game;
+import com.gyroscopegames.gengine.engine.engine.Game;
 import com.gyroscopegames.gengine.engine.ui.Graphics;
 
 /**

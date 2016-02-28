@@ -3,8 +3,6 @@ package com.gyroscopegames.gengine.engine.logic;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.gyroscopegames.gengine.GameObjects.GameObject;
-
 /**
  * Created by Eric R. Campbell on 1/2/2016.
  */

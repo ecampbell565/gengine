@@ -1,17 +1,15 @@
-package com.gyroscopegames.gengine.implementation;
+package com.gyroscopegames.gengine.engine.view;
 
 import android.content.Context;
 import android.graphics.Canvas;
-import android.graphics.Color;
-import android.graphics.Paint;
 import android.graphics.Rect;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 
-import com.gyroscopegames.gengine.engine.Game;
-import com.gyroscopegames.gengine.engine.ui.Graphics;
+import com.gyroscopegames.gengine.engine.engine.Game;
+import com.gyroscopegames.gengine.engine.engine.SquaredGameActivity;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.atomic.AtomicBoolean;

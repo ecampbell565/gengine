@@ -1,7 +1,6 @@
-package com.gyroscopegames.gengine.implementation;
+package com.gyroscopegames.gengine.engine.database;
 
-import com.gyroscopegames.gengine.engine.Game;
-import com.gyroscopegames.gengine.engine.database.Database;
+import com.gyroscopegames.gengine.engine.engine.Game;
 import com.gyroscopegames.gengine.GameObjects.implementation.Player;
 
 /**

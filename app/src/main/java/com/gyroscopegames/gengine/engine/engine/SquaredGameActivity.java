@@ -1,4 +1,4 @@
-package com.gyroscopegames.gengine.implementation;
+package com.gyroscopegames.gengine.engine.engine;
 
 import android.app.Activity;
 import android.content.Context;
@@ -8,10 +8,9 @@ import android.os.Bundle;
 import android.util.DisplayMetrics;
 import android.util.Log;
 
-import com.gyroscopegames.gengine.GameObjects.GameObject;
+import com.gyroscopegames.gengine.engine.logic.GameObject;
 import com.gyroscopegames.gengine.GameObjects.implementation.Player;
 import com.gyroscopegames.gengine.SquaredMain;
-import com.gyroscopegames.gengine.engine.Game;
 import com.gyroscopegames.gengine.engine.database.Database;
 import com.gyroscopegames.gengine.engine.logic.LogicUpdater;
 import com.gyroscopegames.gengine.engine.logic.Scene;
@@ -19,7 +18,10 @@ import com.gyroscopegames.gengine.engine.logic.StateController;
 import com.gyroscopegames.gengine.engine.logic.UIListener;
 import com.gyroscopegames.gengine.engine.ui.Graphics;
 import com.gyroscopegames.gengine.engine.ui.Input;
-import com.gyroscopegames.gengine.implementation.ui.AndroidInput;
+import com.gyroscopegames.gengine.engine.ui.AndroidInput;
+import com.gyroscopegames.gengine.engine.view.SquaredRenderView;
+import com.gyroscopegames.gengine.engine.view.SquaredGraphics;
+import com.gyroscopegames.gengine.engine.logic.SquaredLogicEngine;
 
 import java.util.ArrayList;
 import java.util.HashMap;

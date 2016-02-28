@@ -1,9 +1,9 @@
-package com.gyroscopegames.gengine.engine;
+package com.gyroscopegames.gengine.engine.engine;
 
 import android.content.Context;
 import android.content.res.Resources;
 
-import com.gyroscopegames.gengine.GameObjects.GameObject;
+import com.gyroscopegames.gengine.engine.logic.GameObject;
 import com.gyroscopegames.gengine.engine.database.Database;
 import com.gyroscopegames.gengine.GameObjects.implementation.Player;
 import com.gyroscopegames.gengine.engine.logic.LogicUpdater;

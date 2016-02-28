@@ -1,11 +1,9 @@
 package com.gyroscopegames.gengine.engine.logic;
 
-import com.gyroscopegames.gengine.GameObjects.GameObject;
-import com.gyroscopegames.gengine.engine.Game;
-import com.gyroscopegames.gengine.implementation.SquaredRenderView;
+import com.gyroscopegames.gengine.engine.engine.Game;
+import com.gyroscopegames.gengine.engine.view.SquaredRenderView;
 
 import java.util.HashMap;
-import java.util.List;
 
 /**
  * Created by Eric R. Campbell on 12/30/2015.
